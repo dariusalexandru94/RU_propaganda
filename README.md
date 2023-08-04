@@ -41,6 +41,7 @@ For this study, I chose 28 of the most well - know Russian propaganda Twitter ac
 * StalinFrog - https://twitter.com/StalinFrog
 
 ## Workflow
+
 1. Data collection
 2. Data preprocessing, formating and cleaning;
 3. Exploratory analysis & descriptive statistics: views, retweets, replies, likes, hashtags, photo/video usage, accounts & tweets exploration, time series analysis;
@@ -50,6 +51,7 @@ For this study, I chose 28 of the most well - know Russian propaganda Twitter ac
 7. Conclusions
 
 ## Conclusions
+
 I've decided to add the analysis conclusions here to provide more context to the project.
 
 * the most successful topics of propaganda are those that present the **so-called imperialist ideology of the United States, the presence of Nazism in Ukraine and the devastating effects of the war on the European economy**;
