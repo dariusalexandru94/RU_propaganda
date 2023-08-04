@@ -48,3 +48,18 @@ For this study, I chose 28 of the most well - know Russian propaganda Twitter ac
 5. Daily summarization: extractive text summarization
 6. MongoDB daily ingestion
 7. Conclusions
+
+## Conclusions
+I've decided to add the analysis conclusions here to provide more context to the project.
+
+* the most successful topics of propaganda are those that present the **so-called imperialist ideology of the United States, the presence of Nazism in Ukraine and the devastating effects of the war on the European economy**;
+* each tweet is viewed by **6000** people on average (on a first instance) and retweeted by almost **60 times** (on average). This ensures a very high spreading of the Russian propaganda on Twitter;
+* The most used hashtag in Russian propaganda is **"#zakharova"**. Maria Zakharova is the Director of the Information and Press Department of the Ministry of Foreign Affairs of the Russian Federation. This could indicate that Russian fake news and propaganda is dictated by Russian government itself. Another relevat hashtag used by these accounts to support the propaganda thesis is #naziukraine;
+* the most active account is **GeromanAT** which posts daily news about the stage of the battles in Ukraine, focusing on a subjective interpretation of events and omitting any information that presents the serious problems that Russian army is facing; The most viewed account is **rwapodcast**, which has a negative sentiment score, indicating the use of hate speech to spread propaganda topics;
+* the **official Twitter accounts of the Russian government** have the lowest activity among all the accounts that promote fake news. However, they surprisingly enjoy the most interaction with the target audience, as evident from the high number of replies on their tweets;
+* the general trend is **not to use pictures or videos** in their posts. As a comparision, professional media agencies always use pictures to support the authenticity of the presented events;
+* as media attachments, they often use videos instead of pictures, videos **created in such a way to cause feelings among their target audience**;
+* **jacksonhinklle** is the most popular propaganda Twitter accounnt with the most views of tweets, with an average of 30000 views/tweet. Jackson Hinkle is an american political commentator and YouTube streamer, whose commentary focuses on anti-imperialism and other populist topics. He is spreding russian propaganda on Twitter because it fits his ideas; (but some evidence that has appeared in the public space suggests that he is paid by the Kremlin);
+* **the general sentiment of Russian propaganda is a neutral one**; But this is due to the fact that Russian government pages (which have an above-average positive score) pull up the overall sentiment score values. Most probably because, posting from an official position, you are somehow forced to use formal positive language;
+* More than half of the accounts, 14 in number **(alexxa1721, garlandnixon, geromanat, jacksonhinklle, levi_godman, lumpylouish, pelmenipusha, realgonzalolira, russ_warrior, rwapodcast, snmilitary, taurevanime, thesiriusreport, tinkzorg)**, have a negative sentiment score. This once again demonstrates the use of hate speech in spreading the propaganda. Moreover, over time, the sentiment score continues to decline among these accounts due to the Russian army's failures in Ukraine and the firm measures taken by the West;
+* On the days when the Russian army commits serious war crimes that are exposed to the public, **these accounts become more active**. This increased activity is likely an attempt to discredit news that involves the Russian Federation.
