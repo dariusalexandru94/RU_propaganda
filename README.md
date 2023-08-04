@@ -42,13 +42,13 @@ For this study, I chose 28 of the most well - know Russian propaganda Twitter ac
 
 ## Workflow
 
-1. Data collection
+1. Data collection;
 2. Data preprocessing, formating and cleaning;
 3. Exploratory analysis & descriptive statistics: views, retweets, replies, likes, hashtags, photo/video usage, accounts & tweets exploration, time series analysis;
 4. Sentiment analysis: tweets preprocessing, Naive Bayes classifier, clustering (K-Prototypes);
-5. Daily summarization: extractive text summarization
-6. MongoDB daily ingestion
-7. Conclusions
+5. Daily summarization: extractive text summarization;
+6. MongoDB daily ingestion;
+7. Conclusions.
 
 ## Conclusions
 
