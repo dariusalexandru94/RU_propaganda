@@ -50,7 +50,7 @@ For this study, I chose 28 of the most well - know Russian propaganda Twitter ac
 6. MongoDB daily ingestion;
 7. Conclusions.
 
-## Conclusions
+## Conclusion
 
 I've decided to add the analysis conclusions here to provide more context to the project.
 
